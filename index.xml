@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>s21v1d9p</title>
+    <link>https://s21v1d9p.me/</link>
+    <description>Recent content on s21v1d9p</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Mar 2021 21:46:34 +0530</lastBuildDate><atom:link href="https://s21v1d9p.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Samplepost</title>
+      <link>https://s21v1d9p.me/blog/samplepost/</link>
+      <pubDate>Sun, 07 Mar 2021 21:46:34 +0530</pubDate>
+      
+      <guid>https://s21v1d9p.me/blog/samplepost/</guid>
+      <description>This is some content</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://s21v1d9p.me/about/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://s21v1d9p.me/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
