@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on S21v1d9P</title>
+    <link>https://s21v1d9p.me/tags/</link>
+    <description>Recent content in Tags on S21v1d9P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 22:05:21 +0530</lastBuildDate>
+    
+	<atom:link href="https://s21v1d9p.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sample</title>
+      <link>https://s21v1d9p.me/tags/sample/</link>
+      <pubDate>Tue, 09 Mar 2021 22:05:21 +0530</pubDate>
+      
+      <guid>https://s21v1d9p.me/tags/sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://s21v1d9p.me/tags/testing/</link>
+      <pubDate>Tue, 09 Mar 2021 22:05:21 +0530</pubDate>
+      
+      <guid>https://s21v1d9p.me/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S21v1d9P</title>
+    <link>https://s21v1d9p.me/</link>
+    <description>Recent content on S21v1d9P</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Mar 2021 22:05:21 +0530</lastBuildDate>
+    
+	<atom:link href="https://s21v1d9p.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sample</title>
+      <link>https://s21v1d9p.me/blog/2021/03/sample/</link>
+      <pubDate>Tue, 09 Mar 2021 22:05:21 +0530</pubDate>
+      
+      <guid>https://s21v1d9p.me/blog/2021/03/sample/</guid>
+      <description>Hello This is a sample post
+printf(&amp;#34;Hello World !&amp;#34;); </description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://s21v1d9p.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s21v1d9p.me/about/</guid>
+      <description>Hello Suvadip Here,</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://s21v1d9p.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s21v1d9p.me/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+  </channel>
+</rss>
